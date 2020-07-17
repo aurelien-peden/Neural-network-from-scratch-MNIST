@@ -8,3 +8,7 @@ Accuracy on MNIST dataset = 98%
 ## Dataset
 
 http://yann.lecun.com/exdb/mnist/
+
+## Acknowledgments
+* Deep Learning specialization on Coursera : https://www.coursera.org/specializations/deep-learning
+* https://jonathanweisberg.org/post/A%20Neural%20Network%20from%20Scratch%20-%20Part%201/
